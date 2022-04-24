@@ -1,1 +1,1 @@
-{"questions":[{"id":1,"reactants":["reactant A","reactant B"],"reagents":"reactant B","products":["something","productA"]},{"id":2,"reactants":["reactant A1","reactant B1"],"reagents":"reactant B1","products":["nothing","productA1"]}]}
+{"questions":[{"id":1,"reactants":["C1CC1","C1CC1"],"reagents":"C1CC1","products":["Some reagent","C1CCCCC1"]},{"id":2,"reactants":["C1CCCCC1","C1CCCCC1"],"reagents":"C1CCCCC1","products":["Cl2","C1CC(Cl)CCC1"]}]}
